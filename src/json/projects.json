@@ -1,35 +1,51 @@
 [
     {
         "id": 1,
-        "imagecover": "",
+        "imagecover": "1.png",
         "type": "Website",
         "title": "Mr. Journey",
         "content": "เว็บโปรเจคประกอบการเรียน เกี่ยวกับการสร้างแผนการท่องเที่ยว ปัจจุบันไม่สามารถล็อคอินได้เนื่องจากมีการแก้ตัว server ในการ deploy",
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png",
+            "8.png",
+            "9.png"
         ]
     },
     {
         "id": 2,
-        "imagecover": "",
+        "imagecover": "1.png",
         "type": "Website",
         "title": "Dota2 Hero list",
         "content": "เว็บแสดงข้อมูลตัวละครในเกม Dota2 จาก Api OpenDota ที่สามารถ filter แยกตาม role, name, attack type ได้",
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png"
         ]
     },
     {
         "id": 3,
-        "imagecover": "",
+        "imagecover": "1.png",
         "type": "Website",
         "title": "World Wine",
-        "content": "เว็บโปรเจคประกอบการเรียน เกี่ยวกับการสร้างแผนการท่องเที่ยว ปัจจุบันไม่สามารถล็อคอินได้เนื่องจากมีการแก้ตัว server ในการ deploy",
+        "content": "เว็บไซต์สำหรับการขายสินค้าประเภทไวน์ ที่ทำการรวบรวมและแยกตามประเภทไวน์ โดยเป็นโปรเจคเว็บไซต์ประกอบการเรียน",
         "images": [
-            "1.jpg",
-            "2.jpg"
+            "1.png",
+            "2.png",
+            "3.png",
+            "4.png",
+            "5.png",
+            "6.png",
+            "7.png"
         ]
     },
     {
