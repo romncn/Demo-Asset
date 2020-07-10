@@ -22,6 +22,7 @@ function Navbar() {
         zIndex: "100",
         width: "100vw",
       }}
+      className="shadow-sm"
     >
       <div className="d-none d-lg-block px-5">
         <nav class="navbar navbar-expand-lg navbar-light">
