@@ -12,9 +12,7 @@ function OurProjectCard(props) {
         />
         <div class="card-body">
           <h5 class="card-title">{props.title}</h5>
-          <p class="card-text">
-            {props.children}{" "}
-          </p>
+          <p class="card-text">{props.children} </p>
           <div className="text-center">
             <Link to={`/project/${props.id}`}>
               <button class="btn btn-dark">ข้อมูลเพิ่มเติม</button>
