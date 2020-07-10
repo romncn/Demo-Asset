@@ -1,6 +1,7 @@
 import React from "react";
 import Member1 from "../assest/Panupong.jpg";
-import Member2 from "../assest/Asset-01.jpg";
+import Member2 from "../assest/Natchanon.jpg";
+import Member3 from "../assest/Chutikan.jpg";
 
 const team = [
   {
@@ -14,7 +15,7 @@ const team = [
     position: "Web Developer",
   },
   {
-    image: Member2,
+    image: Member3,
     name: "Chutikan Khuanpan",
     position: "Web Designer",
   },
