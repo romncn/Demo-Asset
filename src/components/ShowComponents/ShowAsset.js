@@ -31,7 +31,7 @@ function ShowAsset(props) {
         <div className="row">
           {data.map((condo, key) => {
             return (
-              <AssetCard className="col-12 col-sm-6 col-lg-4 pt-3 pt-sm-0" image={condo.image} title={condo.title}>
+              <AssetCard className="col-12 col-sm-6 col-lg-4 pt-3 pt-lg-0" image={condo.image} title={condo.title}>
                 <p>{condo.content}</p>
               </AssetCard>
             );
