@@ -8,7 +8,7 @@ import ShowOurProject from "../components/ShowComponents/ShowOurProject";
 
 function Home() {
   return (
-    <div>
+    <div className="bg-light">
       <div className="Navbar-page">
         <Navbar />
       </div>
