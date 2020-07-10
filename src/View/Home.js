@@ -15,17 +15,19 @@ function Home() {
             <div className="Carousel-Slide">
                 <Carousel></Carousel>
             </div>
-            <div className="Welcome-page">
-                <WelcomePage></WelcomePage>
-            </div>
-            <div className="Show-Asset">
-                <ShowAsset></ShowAsset>
-            </div>
-            <div className="Show-OurProject">
-                <ShowOurProject></ShowOurProject>
-            </div>
-            <div className="Footer-page">
-                <Footer></Footer>
+            <div className="container">
+                <div className="Welcome-page">
+                    <WelcomePage></WelcomePage>
+                </div>
+                <div className="Show-Asset">
+                    <ShowAsset></ShowAsset>
+                </div>
+                <div className="Show-OurProject">
+                    <ShowOurProject></ShowOurProject>
+                </div>
+                <div className="Footer-page">
+                    <Footer></Footer>
+                </div>
             </div>
         </div>
     )
