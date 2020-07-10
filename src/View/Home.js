@@ -13,14 +13,14 @@ function Home() {
         <Navbar />
       </div>
       <div className="Carousel-Slide">
-        <Carousel></Carousel>
+        <Carousel/>
       </div>
       <div className="container">
         <div className="Welcome-page">
-          <WelcomePage></WelcomePage>
+          <WelcomePage/>
         </div>
         <div className="Show-Asset">
-          <ShowAsset></ShowAsset>
+          <ShowAsset/>
         </div>
         <div className="Show-OurProject">
           <ShowOurProject></ShowOurProject>

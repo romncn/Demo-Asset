@@ -11,13 +11,13 @@ function Carousel() {
             </ol>
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                    <img class="d-block" style={{height:"100vh", width:"100%", objectFit:"cover"}} src={Asset01} alt="First slide" />%
+                    <img class="d-block" style={{height:"100vh", width:"100%", objectFit:"cover"}} src={Asset01} alt="First slide" />
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block" style={{height:"100vh", width:"100%", objectFit:"cover"}} src={Asset01} alt="First slide" />%
+                    <img class="d-block" style={{height:"100vh", width:"100%", objectFit:"cover"}} src={Asset01} alt="First slide" />
                 </div>
                 <div class="carousel-item">
-                    <img class="d-block" style={{height:"100vh", width:"100%", objectFit:"cover"}} src={Asset01} alt="First slide" />%
+                    <img class="d-block" style={{height:"100vh", width:"100%", objectFit:"cover"}} src={Asset01} alt="First slide" />
                 </div>
             </div>
             <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
