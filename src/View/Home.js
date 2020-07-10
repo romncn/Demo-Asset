@@ -13,20 +13,22 @@ function Home() {
         <Navbar />
       </div>
       <div className="Carousel-Slide">
-        <Carousel/>
+        <Carousel />
       </div>
       <div className="container">
         <div className="Welcome-page">
-          <WelcomePage/>
+          <WelcomePage />
         </div>
         <div className="Show-Asset">
-          <ShowAsset/>
+          <ShowAsset />
         </div>
-        <div className="Show-OurProject">
-          <ShowOurProject></ShowOurProject>
+        <div className="Show-OurProject pt-5">
+          <ShowOurProject />
         </div>
-        <div className="Footer-page">
-          <Footer></Footer>
+      </div>
+      <div className="Footer-page" style={{ backgroundColor: "white" }}>
+        <div className="container">
+          <Footer />
         </div>
       </div>
     </div>
