@@ -14,7 +14,7 @@ export default function LastestProjects(props) {
           {projects.map((project) => {
             return (
               <ProjectCard
-                className="col-4"
+                className="Col-12 col-sm-4"
                 image={`${project.id}/${project.imagecover}`}
                 title={project.title}
                 id={project.id}
